@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Shikhar Dhawan",
+    "field": "Batsman",
+    "email": "Sincere@april.biz",
+    "score":"",
+    "run":""
+   },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "field": "Batsman",
+    "email": "Shanna@melissa.tv",
+    "score":"",
+    "run":""
+    
+  },
+  {
+    "id": 3,
+    "name": "K. L. Rahul",
+    "field": "Batsman",
+    "email": "Nathan@yesenia.net",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 4,
+    "name": "Virat Kohli",
+    "field": "Batsman",
+    "email": "Julianne.OConner@kory.org",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 5,
+    "name": "M. S. Dhoni",
+    "field": "Batsman",
+    "email": "Lucio_Hettinger@annie.ca",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 6,
+    "name": "Kedar Jadhav",
+    "field": "Batsman",
+    "email": "Karley_Dach@jasper.info" ,
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 7,
+    "name": "Vijay Shankar",
+    "field": "Wicket-keeper",
+    "email": "Telly.Hoeger@billy.biz",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 8,
+    "name": "Dinesh Karthik",
+    "field": "Wicket-keeper",
+    "email": "Sherwood@rosamond.me",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 9,
+    "name": "Hardik Pandya",
+    "field": "All-Rounder",
+    "email": "Chaim_McDermott@dana.io",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 10,
+    "name": "Ravindra Jadeja",
+    "field": "All-Rounder",
+    "email": "Rey.Padberg@karina.biz",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 11,
+    "name": "Bhuvneshwar Kumar",
+    "field": "Bowler",
+    "email": "Rey.Padberg@karina.biz",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 12,
+    "name": "Mohammed Shami",
+    "field": "Bowler",
+    "email": "Rey.Padberg@karina.biz",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 13,
+    "name": "Jasprit Bumrah",
+    "field": "Bowler",
+    "email": "Rey.Padberg@karina.biz",
+    "score":"",
+    "run":""
+  },
+  {
+    "id": 14,
+    "name": "Kuldeep Yadav",
+    "field": "Bowler",
+    "email": "Rey.Padberg@karina.biz",
+    "score":"",
+    "run":""
+  },{
+    "id": 15,
+    "name": "Yuzvendra Chahal",
+    "field": "Bowler",
+    "email": "Rey.Padberg@karina.biz",
+    "score":"",
+    "run":""
+  }
+]
